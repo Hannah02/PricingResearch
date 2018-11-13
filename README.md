@@ -41,7 +41,7 @@ Kickstarter Goal £5,835
 ---
 
 
-### [Cherry Bombe Magazine]("https://www.kickstarter.com/projects/607710809/cherry-bombe-magazine?ref=discovery&term=women%20in%20design")
+### [Cherry Bombe Magazine](https://www.kickstarter.com/projects/607710809/cherry-bombe-magazine?ref=discovery&term=women%20in%20design)
 *"A beautifully designed, biannual magazine that celebrates women and food."*
 
 Kickstarter **£15.50**
